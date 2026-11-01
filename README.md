@@ -2,25 +2,40 @@
 
 ### Élève ingénieur en intelligence artificielle · EMSI Casablanca
 
-En **5e année**, je développe mes compétences en **Machine Learning, Deep Learning et développement logiciel**, avec un intérêt pour les applications concrètes de l’IA.
+En **5e année**, je développe mes compétences en **Machine Learning, Deep Learning et développement logiciel**. Mes projets portent sur la classification, les réseaux de neurones et la maintenance prédictive.
 
-**Stage PFE recherché : 6 mois dès début février 2027** (4 mois minimum), au Maroc ou à l’étranger. Convention de stage possible via l’EMSI. Intéressé par une perspective de préembauche.
+**Stage PFE recherché : 6 mois dès début février 2027** (4 mois minimum). Basé à Casablanca, je suis ouvert au **Maroc**, notamment en préembauche, à la **France**, au **Québec** et à l’international. L’EMSI peut délivrer une convention de stage à l’étranger.
 
-## Projet à découvrir
+[LinkedIn](https://www.linkedin.com/in/younes-radouani-a41723327/)
 
-### [Deep Learning avec PyTorch](https://github.com/younesdebug/emsi-deep-learning)
+## Projets à découvrir
 
-Projet académique réalisé en 2025–2026 : implémentation et comparaison de MLP pour les données tabulaires, CNN pour les images et RNN/LSTM/GRU pour les séquences.
+| Projet | Périmètre | Éléments vérifiables |
+|---|---|---|
+| [Deep Learning avec PyTorch](https://github.com/younesdebug/emsi-deep-learning) | Projet académique 2025–2026 : MLP, CNN, RNN, LSTM et GRU | Scripts exécutables, séparation entraînement/validation/test, 7 tests automatisés, protocole d’évaluation |
+| [Predictive Maintenance Lab](https://github.com/younesdebug/predictive-maintenance-lab) | Adaptation open source : baseline Random Forest et tableau de bord Streamlit | Validation par moteur, comparaison à une baseline naïve, résultats reproductibles, 10 tests automatisés |
 
-- Modèles et scripts d’entraînement, de validation et de test.
-- Breast Cancer Wisconsin, Fashion-MNIST et démonstration sur séquences synthétiques.
-- Documentation des conditions d’évaluation et des limites méthodologiques.
+### Deep Learning avec PyTorch
 
-## Expériences et engagements
+- Données tabulaires Breast Cancer Wisconsin, images Fashion-MNIST et séquences synthétiques.
+- Normalisation apprise uniquement sur l’entraînement ; validation image sans augmentation aléatoire.
+- Tests des partitions, des architectures et de la sauvegarde des modèles.
+- Les tests courts vérifient le fonctionnement du pipeline ; ils ne constituent pas un benchmark complet.
 
-- **MedicoPrint — SmartDialysis IA :** conception d’une interface de maintenance prédictive pour des équipements de dialyse, avec Random Forest pour la prédiction des pannes et des besoins d’intervention.
+### Predictive Maintenance Lab
+
+Adaptation pédagogique du [projet LSTM d’Umberto Griffo](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM), sous licence MIT, avec conservation de l’attribution et de l’historique.
+
+La version présentée ajoute, **avec assistance IA**, une baseline Random Forest, un tableau de bord Streamlit, une évaluation documentée et des tests. Elle utilise des données de moteurs simulés : ce n’est pas un dispositif médical ni une solution industrielle validée.
+
+Les améliorations récentes du pipeline PyTorch ont également été réalisées avec assistance IA ; leur portée et leurs vérifications sont décrites dans le dépôt.
+
+## Expériences et engagement
+
+- **MedicoPrint — SmartDialysis IA :** conception d’une interface de maintenance prédictive avec Random Forest pour les pannes et les besoins d’intervention des techniciens.
 - **Direct Dispatch Logistics — Glomo :** conception et développement d’un site web pendant un stage.
-- **Octane EMSI :** responsable du site CFC depuis ma 5e année, représentant du club auprès de la communauté étudiante du site.
+- **IOS Solution — service à la clientèle, à temps partiel :** écoute, communication et compréhension des besoins utilisateurs.
+- **Octane EMSI :** responsable et représentant du club sur le site CFC depuis ma 5e année.
 
 ## Compétences
 
