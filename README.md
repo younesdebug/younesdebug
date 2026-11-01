@@ -13,6 +13,7 @@ En **5e année**, je développe mes compétences en **Machine Learning, Deep Lea
 | Projet | Périmètre | Éléments vérifiables |
 |---|---|---|
 | [Deep Learning avec PyTorch](https://github.com/younesdebug/emsi-deep-learning) | Projet académique 2025–2026 : MLP, CNN, RNN, LSTM et GRU | Scripts exécutables, séparation entraînement/validation/test, 7 tests automatisés, protocole d’évaluation |
+| [SmartDialysis AI](https://github.com/younesdebug/smartdialysis-ai) | Version portfolio maintenue : Streamlit, XGBoost, SHAP et Isolation Forest | 31 tests, démonstration SQLite, attribution du code initial documentée |
 | [Predictive Maintenance Lab](https://github.com/younesdebug/predictive-maintenance-lab) | Adaptation open source : baseline Random Forest et tableau de bord Streamlit | Validation par moteur, comparaison à une baseline naïve, résultats reproductibles, 10 tests automatisés |
 
 ### Deep Learning avec PyTorch
@@ -32,7 +33,7 @@ Les améliorations récentes du pipeline PyTorch ont également été réalisée
 
 ## Expériences et engagement
 
-- **MedicoPrint — SmartDialysis IA :** conception d’une interface de maintenance prédictive avec Random Forest pour les pannes et les besoins d’intervention des techniciens.
+- **SmartDialysis AI :** version portfolio d’une interface de suivi d’équipements et d’interventions, sur données synthétiques. Le code reçu utilise XGBoost et Isolation Forest ; l’auteur indiqué dans l’archive est crédité dans le dépôt.
 - **Direct Dispatch Logistics — Glomo :** conception et développement d’un site web pendant un stage.
 - **IOS Solution — service à la clientèle, à temps partiel :** écoute, communication et compréhension des besoins utilisateurs.
 - **Octane EMSI :** responsable et représentant du club sur le site CFC depuis ma 5e année.
